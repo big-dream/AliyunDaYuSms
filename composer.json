@@ -1,0 +1,16 @@
+{
+    "name": "big-dream/AliyunDaYuSms",
+    "description": "阿里大鱼短信SDK",
+    "keywords": [ "aliyun", "SMS", "sdk" ],
+    "type": "library",
+    "license": "Apache-2.0",
+    "require": {
+	"php": ">=5.5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "AliyunMNS\\": "MNS"
+        }
+    }
+    "homepage": "https://github.com/big-dream/AliyunDaYuSms"
+}
