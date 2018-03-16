@@ -73,4 +73,3 @@ class BatchSendMessageRequest extends BaseRequest
         return NULL;
     }
 }
-?>

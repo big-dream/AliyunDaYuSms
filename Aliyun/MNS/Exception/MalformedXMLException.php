@@ -7,4 +7,3 @@ class MalformedXMLException extends MnsException
 {
 }
 
-?>

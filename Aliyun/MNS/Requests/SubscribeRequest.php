@@ -39,4 +39,3 @@ class SubscribeRequest extends BaseRequest
     }
 }
 
-?>

@@ -71,4 +71,3 @@ class SendMessageResponse extends BaseResponse
     }
 }
 
-?>

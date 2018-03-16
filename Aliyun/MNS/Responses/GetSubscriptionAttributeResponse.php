@@ -85,4 +85,3 @@ class GetSubscriptionAttributeResponse extends BaseResponse
         }
     }
 }
-?>

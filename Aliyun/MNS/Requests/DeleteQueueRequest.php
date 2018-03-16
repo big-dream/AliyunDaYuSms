@@ -30,4 +30,3 @@ class DeleteQueueRequest extends BaseRequest
         return NULL;
     }
 }
-?>

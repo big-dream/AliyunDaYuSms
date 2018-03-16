@@ -44,4 +44,3 @@ class SetAccountAttributesResponse extends BaseResponse
     }
 }
 
-?>

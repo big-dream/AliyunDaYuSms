@@ -65,4 +65,3 @@ class GetAccountAttributesResponse extends BaseResponse
     }
 }
 
-?>

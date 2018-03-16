@@ -50,4 +50,3 @@ class SetTopicAttributeRequest extends BaseRequest
         return NULL;
     }
 }
-?>

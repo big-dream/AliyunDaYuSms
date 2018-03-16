@@ -7,4 +7,3 @@ class QueueAlreadyExistException extends MnsException
 {
 }
 
-?>

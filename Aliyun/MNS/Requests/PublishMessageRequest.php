@@ -48,4 +48,3 @@ class PublishMessageRequest extends BaseRequest
         return NULL;
     }
 }
-?>

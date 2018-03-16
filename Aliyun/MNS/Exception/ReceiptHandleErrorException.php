@@ -7,4 +7,3 @@ class ReceiptHandleErrorException extends MnsException
 {
 }
 
-?>

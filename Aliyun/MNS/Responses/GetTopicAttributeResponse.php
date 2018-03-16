@@ -85,4 +85,3 @@ class GetTopicAttributeResponse extends BaseResponse
     }
 }
 
-?>

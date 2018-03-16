@@ -37,4 +37,3 @@ class DeleteMessageRequest extends BaseRequest
         return http_build_query(array("ReceiptHandle" => $this->receiptHandle));
     }
 }
-?>

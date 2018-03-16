@@ -38,4 +38,3 @@ class BatchPeekMessageRequest extends BaseRequest
         return http_build_query(array("numOfMessages" => $this->numOfMessages, "peekonly" => "true"));
     }
 }
-?>

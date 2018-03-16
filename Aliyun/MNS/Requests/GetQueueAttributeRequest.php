@@ -29,4 +29,3 @@ class GetQueueAttributeRequest extends BaseRequest
         return NULL;
     }
 }
-?>

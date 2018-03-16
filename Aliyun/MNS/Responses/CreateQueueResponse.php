@@ -63,4 +63,3 @@ class CreateQueueResponse extends BaseResponse
     }
 }
 
-?>

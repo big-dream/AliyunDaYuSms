@@ -43,4 +43,3 @@ class DeleteQueueResponse extends BaseResponse
     }
 }
 
-?>

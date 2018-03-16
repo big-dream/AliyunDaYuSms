@@ -45,4 +45,3 @@ class UnsubscribeResponse extends BaseResponse
     }
 }
 
-?>

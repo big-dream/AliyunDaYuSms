@@ -43,4 +43,3 @@ class SetSubscriptionAttributeRequest extends BaseRequest
     }
 }
 
-?>

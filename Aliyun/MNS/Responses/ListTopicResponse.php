@@ -121,4 +121,3 @@ class ListTopicResponse extends BaseResponse
     }
 }
 
-?>

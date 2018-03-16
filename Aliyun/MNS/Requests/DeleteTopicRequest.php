@@ -30,4 +30,3 @@ class DeleteTopicRequest extends BaseRequest
         return NULL;
     }
 }
-?>

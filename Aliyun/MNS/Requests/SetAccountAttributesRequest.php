@@ -43,4 +43,3 @@ class SetAccountAttributesRequest extends BaseRequest
         return NULL;
     }
 }
-?>

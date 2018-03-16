@@ -47,4 +47,3 @@ class BatchDeleteMessageRequest extends BaseRequest
         return NULL;
     }
 }
-?>

@@ -44,4 +44,3 @@ class ChangeMessageVisibilityRequest extends BaseRequest
         return http_build_query(array("receiptHandle" => $this->receiptHandle, "visibilityTimeout" => $this->visibilityTimeout));
     }
 }
-?>

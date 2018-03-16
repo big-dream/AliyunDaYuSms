@@ -20,4 +20,3 @@ class GetAccountAttributesRequest extends BaseRequest
         return NULL;
     }
 }
-?>

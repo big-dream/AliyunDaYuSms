@@ -63,4 +63,3 @@ class SetTopicAttributeResponse extends BaseResponse
     }
 }
 
-?>

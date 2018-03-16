@@ -7,4 +7,3 @@ class MessageNotExistException extends MnsException
 {
 }
 
-?>

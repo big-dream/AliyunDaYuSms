@@ -7,4 +7,3 @@ class QueueNotExistException extends MnsException
 {
 }
 
-?>

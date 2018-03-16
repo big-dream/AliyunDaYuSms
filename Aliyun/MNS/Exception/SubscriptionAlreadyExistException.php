@@ -7,4 +7,3 @@ class SubscriptionAlreadyExistException extends MnsException
 {
 }
 
-?>

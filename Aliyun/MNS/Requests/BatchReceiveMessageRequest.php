@@ -55,4 +55,3 @@ class BatchReceiveMessageRequest extends BaseRequest
         return http_build_query($params);
     }
 }
-?>

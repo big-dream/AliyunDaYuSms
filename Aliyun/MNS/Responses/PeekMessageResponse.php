@@ -82,4 +82,3 @@ class PeekMessageResponse extends BaseResponse
     }
 }
 
-?>

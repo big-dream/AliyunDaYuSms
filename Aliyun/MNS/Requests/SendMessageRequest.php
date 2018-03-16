@@ -64,4 +64,3 @@ class SendMessageRequest extends BaseRequest
         return NULL;
     }
 }
-?>

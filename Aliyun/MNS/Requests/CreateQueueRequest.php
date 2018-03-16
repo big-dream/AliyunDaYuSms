@@ -50,4 +50,3 @@ class CreateQueueRequest extends BaseRequest
         return NULL;
     }
 }
-?>

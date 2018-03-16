@@ -50,4 +50,3 @@ class SetQueueAttributeRequest extends BaseRequest
         return NULL;
     }
 }
-?>

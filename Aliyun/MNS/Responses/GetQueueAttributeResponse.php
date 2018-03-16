@@ -70,4 +70,3 @@ class GetQueueAttributeResponse extends BaseResponse
     }
 }
 
-?>

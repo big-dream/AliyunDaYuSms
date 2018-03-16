@@ -32,4 +32,3 @@ class BatchSendFailException extends MnsException
     }
 }
 
-?>

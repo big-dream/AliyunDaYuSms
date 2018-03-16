@@ -32,4 +32,3 @@ class BatchDeleteFailException extends MnsException
     }
 }
 
-?>

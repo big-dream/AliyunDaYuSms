@@ -71,4 +71,3 @@ class PublishMessageResponse extends BaseResponse
     }
 }
 
-?>

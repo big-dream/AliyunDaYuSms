@@ -43,4 +43,3 @@ class DeleteTopicResponse extends BaseResponse
     }
 }
 
-?>

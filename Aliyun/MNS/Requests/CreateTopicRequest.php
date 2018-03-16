@@ -50,4 +50,3 @@ class CreateTopicRequest extends BaseRequest
         return NULL;
     }
 }
-?>

@@ -95,4 +95,3 @@ class BatchReceiveMessageResponse extends BaseResponse
     }
 }
 
-?>

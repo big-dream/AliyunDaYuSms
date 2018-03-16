@@ -7,4 +7,3 @@ class InvalidArgumentException extends MnsException
 {
 }
 
-?>

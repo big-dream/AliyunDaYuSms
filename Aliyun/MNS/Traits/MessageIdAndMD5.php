@@ -27,4 +27,3 @@ trait MessageIdAndMD5
     }
 }
 
-?>

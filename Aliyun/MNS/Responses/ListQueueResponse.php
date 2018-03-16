@@ -106,4 +106,3 @@ class ListQueueResponse extends BaseResponse
     }
 }
 
-?>
