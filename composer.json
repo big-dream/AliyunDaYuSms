@@ -11,6 +11,6 @@
         "psr-4": {
             "AliyunMNS\\": "MNS"
         }
-    }
+    },
     "homepage": "https://github.com/big-dream/AliyunDaYuSms"
 }
