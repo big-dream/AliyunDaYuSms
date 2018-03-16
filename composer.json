@@ -1,5 +1,5 @@
 {
-    "name": "big-dream/AliyunDaYuSms",
+    "name": "big-dream/aliyun-dayusms",
     "description": "阿里大鱼短信SDK",
     "keywords": [ "aliyun", "SMS", "sdk" ],
     "type": "library",
