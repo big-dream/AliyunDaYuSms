@@ -9,7 +9,8 @@
     },
     "autoload": {
         "psr-4": {
-            "AliyunMNS\\": "MNS"
+            "AliyunMNS\\": "MNS",
+            "Aliyun\\Core\\": "Aliyun/Core"
         }
     },
     "homepage": "https://github.com/big-dream/AliyunDaYuSms"
